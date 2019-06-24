@@ -1,0 +1,41 @@
+<div class='note'>
+				<p>
+					<span class='date'>June 24, 2019, 20:53:57</span>
+					<span class='name'>Автор: Кирилл</span>
+				</p>
+				<p>
+				Привет мир
+				</p>
+			</div>	<div class='note'>
+				<p>
+					<span class='date'>June 24, 2019, 21:04:58</span>
+					<span class='name'>Автор: DFD</span>
+				</p>
+				<p>
+				dfdsf
+				</p>
+			</div>	<div class='note'>
+				<p>
+					<span class='date'>June 24, 2019, 21:05:32</span>
+					<span class='name'>Автор: dfs</span>
+				</p>
+				<p>
+				sdfs
+				</p>
+			</div>	<div class='note'>
+				<p>
+					<span class='date'>June 24, 2019, 21:10:52</span>
+					<span class='name'>Автор: sadas</span>
+				</p>
+				<p>
+				asdas
+				</p>
+			</div>	<div class='note'>
+				<p>
+					<span class='date'>June 24, 2019, 21:12:34</span>
+					<span class='name'>Автор: Василий</span>
+				</p>
+				<p>
+				Привет мир
+				</p>
+			</div>	
